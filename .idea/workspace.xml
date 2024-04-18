@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebbf2687-ce78-4cca-99d9-9c1f0d89b396" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enumeraciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer1/Vestuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer2/ServicioPeluqueria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer3/VideoJuegos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer4/Transporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer5/Producto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2fHYkuLinXpt3PtWoQrTzTJVPSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Juan Arango/Desktop/Enumeraciones/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ejer5.Main">
+    <configuration name="Ejer3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer3.Main" />
+      <module name="Enumeraciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer4.Main" />
+      <module name="Enumeraciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer5.Main" />
+      <module name="Enumeraciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer2.Main" />
+      <module name="Enumeraciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer1.Principal" />
+      <module name="Enumeraciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejer5.Main" />
+        <item itemvalue="Application.Ejer4.Main" />
+        <item itemvalue="Application.Ejer3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebbf2687-ce78-4cca-99d9-9c1f0d89b396" name="Changes" comment="" />
+      <created>1713459618374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713459618374</updated>
+      <workItem from="1713459619403" duration="11134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
